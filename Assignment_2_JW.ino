@@ -1,3 +1,5 @@
+//Code for Arduino to work with Max MSP for Assignment2 - John Wildgoose
+
 //declare sensor pins and values
 
 const int button1Pin = 2;
